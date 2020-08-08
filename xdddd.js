@@ -29,7 +29,8 @@ class Motos{
  
    console.log(Auto1.valores());
    console.log(Auto2.valores());
-
+   console.log(Moto1.valores());
+   console.log(Moto2.valores());
 
 
 
